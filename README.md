@@ -7,10 +7,10 @@ One can see that several lines are commented. They work (!) but for my thesis I 
 
 ## Execution Environment
 Setup (Windows)
-⋅⋅* Install Octave version 8.2.0 or a similar Matlab version;
-⋅⋅* create a `New_Folder` folder;
-⋅⋅* Move the `Resumo_Prensados_e_Impressos.xlsx` xlsx file to `New_Folder` folder;
-⋅⋅* Move the `Script Tratamento Curvas.m` Octave/Matlab file to `New_Folder` folder;
+⋅⋅*Install Octave version 8.2.0 or a similar Matlab version;
+⋅⋅*create a `New_Folder` folder;
+⋅⋅*Move the `Resumo_Prensados_e_Impressos.xlsx` xlsx file to `New_Folder` folder;
+⋅⋅*Move the `Script Tratamento Curvas.m` Octave/Matlab file to `New_Folder` folder;
 How to Run
 ..* Open Octave
 ..* In "Current Directory:" (second line toolbar) find `New_Folder`;
