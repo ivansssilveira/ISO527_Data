@@ -11,15 +11,18 @@ Setup (Windows)
 * create a `New_Folder` folder
 * Move the `Resumo_Prensados_e_Impressos.xlsx` xlsx file to `New_Folder` folder
 * Move the `Script Tratamento Curvas.m` Octave/Matlab file to `New_Folder` folder
+
 How to Run
 * Open Octave
-* In "Current Directory:" (second line toolbar) find `New_Folder`;
-* In "File Browser" double click `Script Tratamento Curvas.m`;
-* Press "F5" or Press the `Save File and Run / Continue` button;
-  or
-* Open `New_Folder`;
-* double click `Script Tratamento Curvas.m`;
-* Press "F5" or Press the `Save File and Run / Continue` button;
+* In "Current Directory:" (second line toolbar) find `New_Folder`
+* In "File Browser" double click `Script Tratamento Curvas.m`
+* Press "F5" or Press the `Save File and Run / Continue` button
+
+or
+
+* Open `New_Folder`
+* double click `Script Tratamento Curvas.m`
+* Press "F5" or Press the `Save File and Run / Continue` button
 ## Outputs
 The code will automatically generate its graphs. If needed, the variables will 
   
