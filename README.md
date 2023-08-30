@@ -3,7 +3,7 @@ An Octave/MatLab code that opens an Excel sheet (Resumo_Prensados_e_Impressos.xl
 
 ## General Description
 This code was utilized in my undergraduate thesis project. There, I have  FFF printed PLA and PVDF specimens with different conditions and one of the many assessment tests was the determination of they tensile properties. 
-One can see that several lines are commented. They work (!) but for my thesis I have not used them. They are a linear regression to calculate the Linear Elastic Modulus. 
+One can see that several lines are commented. They work (!) but for my thesis I have not used them. They are a linear regression to calculate the Linear Elastic Modulus (at least some of them). 
 
 ## Execution Environment
 Setup (Windows)
