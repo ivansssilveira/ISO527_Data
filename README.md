@@ -6,13 +6,13 @@ This code was utilized in my undergraduate thesis project. There, I have  FFF pr
 One can see that several lines are commented. They work (!) but for my thesis I have not used them. They are a linear regression to calculate the Linear Elastic Modulus (at least some of them). 
 
 ## Execution Environment
-Setup (Windows)
+### Setup (Windows)
 * Install Octave version 8.2.0 or a similar Matlab version
 * create a `New_Folder` folder
 * Move the `Resumo_Prensados_e_Impressos.xlsx` xlsx file to `New_Folder`
 * Move the `Script Tratamento Curvas.m` Octave/Matlab file to `New_Folder`
 
-How to Run
+### How to Run
 * Open Octave
 * In "Current Directory:" (second line toolbar) find `New_Folder`
 * In "File Browser" double click `Script Tratamento Curvas.m`
