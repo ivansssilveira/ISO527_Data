@@ -9,8 +9,8 @@ One can see that several lines are commented. They work (!) but for my thesis I 
 Setup (Windows)
 * Install Octave version 8.2.0 or a similar Matlab version
 * create a `New_Folder` folder
-* Move the `Resumo_Prensados_e_Impressos.xlsx` xlsx file to `New_Folder` folder
-* Move the `Script Tratamento Curvas.m` Octave/Matlab file to `New_Folder` folder
+* Move the `Resumo_Prensados_e_Impressos.xlsx` xlsx file to `New_Folder`
+* Move the `Script Tratamento Curvas.m` Octave/Matlab file to `New_Folder`
 
 How to Run
 * Open Octave
@@ -24,8 +24,10 @@ or
 * double click `Script Tratamento Curvas.m`
 * Press "F5" or Press the `Save File and Run / Continue` button
 ## Outputs
-The code will automatically generate its graphs. If needed, the variables will 
-  
+The code will automatically generate its graphs. If needed, the variables will be stored in Octave/Matlab' "Workspace" or they can be called in "Command Window". Alternatively, one may edit the main code deleting the character ";" after the chosen variable. Doing so, it will appear in Octave/Matlab' "Command Window".
 
+## Contacts
 If you have any doubts don't hesitate to contact me :)
-Ivan
+* ivansssilveira@gmail.com
+
+Ivan SILVEIRA
