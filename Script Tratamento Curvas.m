@@ -309,7 +309,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_1(i,1)=(Yn_1(i,1)-Fn_1(i,1))^2;
 %%end
 %%SSres_1= sum(SSp_res_1);
-%%%Coefficient of Determination R² (general definition)
+%%%Coefficient of Determination RÂ² (general definition)
 %%Rquad_1=1-(SSres_1/SStot_1);
 %%%%Norm of residuals
 %%NormRes_1=(SSres_1)^(0.5);
@@ -336,7 +336,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_2(i,1)=(Yn_2(i,1)-Fn_2(i,1))^2;
 %%end
 %%SSres_2= sum(SSp_res_2);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_2=1-(SSres_2/SStot_2);
 %%%Norm of residuals
 %%NormRes_2=(SSres_2)^(0.5);
@@ -365,7 +365,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_3(i,1)=(Yn_3(i,1)-Fn_3(i,1))^2;
 %%end
 %%SSres_3= sum(SSp_res_3);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_3=1-(SSres_3/SStot_3);
 %%%Norm of residuals
 %%NormRes_3=(SSres_3)^(0.5);
@@ -393,7 +393,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_4(i,1)=(Yn_4(i,1)-Fn_4(i,1))^2;
 %%end
 %%SSres_4= sum(SSp_res_4);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_4=1-(SSres_4/SStot_4);
 %%%Norm of residuals
 %%NormRes_4=(SSres_4)^(0.5);
@@ -420,7 +420,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_5(i,1)=(Yn_5(i,1)-Fn_5(i,1))^2;
 %%end
 %%SSres_5= sum(SSp_res_5);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_5=1-(SSres_5/SStot_5);
 %%%Norm of residuals
 %%NormRes_5=(SSres_5)^(0.5);
@@ -447,7 +447,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_6(i,1)=(Yn_6(i,1)-Fn_6(i,1))^2;
 %%end
 %%SSres_6= sum(SSp_res_6);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_6=1-(SSres_6/SStot_6);
 %%%Norm of residuals
 %%NormRes_6=(SSres_6)^(0.5);
@@ -474,7 +474,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_7(i,1)=(Yn_7(i,1)-Fn_7(i,1))^2;
 %%end
 %%SSres_7= sum(SSp_res_7);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_7=1-(SSres_7/SStot_7);
 %%%Norm of residuals
 %%NormRes_7=(SSres_7)^(0.5);
@@ -502,7 +502,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_8(i,1)=(Yn_8(i,1)-Fn_8(i,1))^2;
 %%end
 %%SSres_8= sum(SSp_res_8);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_8=1-(SSres_8/SStot_8);
 %%%Norm of residuals
 %%NormRes_8=(SSres_8)^(0.5);
@@ -529,7 +529,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_9(i,1)=(Yn_9(i,1)-Fn_9(i,1))^2;
 %%end
 %%SSres_9= sum(SSp_res_9);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_9=1-(SSres_9/SStot_9);
 %%%Norm of residuals
 %%NormRes_9=(SSres_9)^(0.5);
@@ -556,7 +556,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_10(i,1)=(Yn_10(i,1)-Fn_10(i,1))^2;
 %%end
 %%SSres_10= sum(SSp_res_10);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_10=1-(SSres_10/SStot_10);
 %%%Norm of residuals
 %%NormRes_10=(SSres_10)^(0.5);
@@ -583,7 +583,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_11(i,1)=(Yn_11(i,1)-Fn_11(i,1))^2;
 %%end
 %%SSres_11= sum(SSp_res_11);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_11=1-(SSres_11/SStot_11);
 %%%Norm of residuals
 %%NormRes_11=(SSres_11)^(0.5);
@@ -611,7 +611,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_12(i,1)=(Yn_12(i,1)-Fn_12(i,1))^2;
 %%end
 %%SSres_12= sum(SSp_res_12);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_12=1-(SSres_12/SStot_12);
 %%%Norm of residuals
 %%NormRes_12=(SSres_12)^(0.5);
@@ -638,7 +638,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_13(i,1)=(Yn_13(i,1)-Fn_13(i,1))^2;
 %%end
 %%SSres_13= sum(SSp_res_13);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_13=1-(SSres_13/SStot_13);
 %%%Norm of residuals
 %%NormRes_13=(SSres_13)^(0.5);
@@ -665,7 +665,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_14(i,1)=(Yn_14(i,1)-Fn_14(i,1))^2;
 %%end
 %%SSres_14= sum(SSp_res_14);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_14=1-(SSres_14/SStot_14);
 %%%Norm of residuals
 %%NormRes_14=(SSres_14)^(0.5);
@@ -692,7 +692,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_15(i,1)=(Yn_15(i,1)-Fn_15(i,1))^2;
 %%end
 %%SSres_15= sum(SSp_res_15);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_15=1-(SSres_15/SStot_15);
 %%%Norm of residuals
 %%NormRes_15=(SSres_15)^(0.5);
@@ -719,7 +719,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_16(i,1)=(Yn_16(i,1)-Fn_16(i,1))^2;
 %%end
 %%SSres_16= sum(SSp_res_16);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_16=1-(SSres_16/SStot_16);
 %%%Norm of residuals
 %%NormRes_16=(SSres_16)^(0.5);
@@ -748,7 +748,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_17(i,1)=(Yn_17(i,1)-Fn_17(i,1))^2;
 %%end
 %%SSres_17= sum(SSp_res_17);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_17=1-(SSres_17/SStot_17);
 %%%Norm of residuals
 %%NormRes_17=(SSres_17)^(0.5);
@@ -775,7 +775,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_18(i,1)=(Yn_18(i,1)-Fn_18(i,1))^2;
 %%end
 %%SSres_18= sum(SSp_res_18);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_18=1-(SSres_18/SStot_18);
 %%%Norm of residuals
 %%NormRes_18=(SSres_18)^(0.5);
@@ -802,7 +802,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_19(i,1)=(Yn_19(i,1)-Fn_19(i,1))^2;
 %%end
 %%SSres_19= sum(SSp_res_19);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_19=1-(SSres_19/SStot_19);
 %%%Norm of residuals
 %%NormRes_19=(SSres_19)^(0.5);
@@ -829,7 +829,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_20(i,1)=(Yn_20(i,1)-Fn_20(i,1))^2;
 %%end
 %%SSres_20= sum(SSp_res_20);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_20=1-(SSres_20/SStot_20);
 %%%Norm of residuals
 %%NormRes_20=(SSres_20)^(0.5);
@@ -856,7 +856,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_21(i,1)=(Yn_21(i,1)-Fn_21(i,1))^2;
 %%end
 %%SSres_21= sum(SSp_res_21);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_21=1-(SSres_21/SStot_21);
 %%%Norm of residuals
 %%NormRes_21=(SSres_21)^(0.5);
@@ -884,7 +884,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_22(i,1)=(Yn_22(i,1)-Fn_22(i,1))^2;
 %%end
 %%SSres_22= sum(SSp_res_22);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_22=1-(SSres_22/SStot_22);
 %%%Norm of residuals
 %%NormRes_22=(SSres_22)^(0.5);
@@ -911,7 +911,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_23(i,1)=(Yn_23(i,1)-Fn_23(i,1))^2;
 %%end
 %%SSres_23= sum(SSp_res_23);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_23=1-(SSres_23/SStot_23);
 %%%Norm of residuals
 %%NormRes_23=(SSres_23)^(0.5);
@@ -938,7 +938,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_24(i,1)=(Yn_24(i,1)-Fn_24(i,1))^2;
 %%end
 %%SSres_24= sum(SSp_res_24);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_24=1-(SSres_24/SStot_24);
 %%%Norm of residuals
 %%NormRes_24=(SSres_24)^(0.5);
@@ -965,7 +965,7 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_25(i,1)=(Yn_25(i,1)-Fn_25(i,1))^2;
 %%end
 %%SSres_25= sum(SSp_res_25);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_25=1-(SSres_25/SStot_25);
 %%%Norm of residuals
 %%NormRes_25=(SSres_25)^(0.5);
@@ -992,14 +992,14 @@ fechadura=xlsclose(fechadura);
 %%  SSp_res_26(i,1)=(Yn_26(i,1)-Fn_26(i,1))^2;
 %%end
 %%SSres_26= sum(SSp_res_26);
-%%%R² (general definition)
+%%%RÂ² (general definition)
 %%Rquad_26=1-(SSres_26/SStot_26);
 %%%Norm of residuals
 %%NormRes_26=(SSres_26)^(0.5);
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Outputs R²
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Outputs RÂ²
 %%Rotulos_Rdois={'PLA45_CP5';'PLA45_CP6';'PLA45_CP7';'____________';'PLA90_CP1';'PLA90_CP2';'PLA90_CP3';'PLA90_CP4';'____________';'PVDF45_CP1';'PVDF45_CP2';'PVDF45_CP3';'PVDF45_CP4';'____________';'PVDF90_CP1';'PVDF90_CP2';'PVDF90_CP3';'PVDF90_CP4';'PVDF90_CP5';'____________';'PLA_CP1';'PLA_CP2';'PLA_CP3';'PLA_CP5';'PLA_CP7';'____________';'PVDF_CP1';'PVDF_CP2';'PVDF_CP3';'PVDF_CP4';'PVDF_CP5'};
 %%Rquads=[Rquad_1;Rquad_2;Rquad_3;0;Rquad_4;Rquad_5;Rquad_6;Rquad_7;0;Rquad_8;Rquad_9;Rquad_10;Rquad_11;0;Rquad_12;Rquad_13;Rquad_14;Rquad_15;Rquad_16;0;Rquad_17;Rquad_18;Rquad_19;Rquad_20;Rquad_21;0;Rquad_22;Rquad_23;Rquad_24;Rquad_25;Rquad_26];
 %%NormsRes=[NormRes_1;NormRes_2;NormRes_3;0;NormRes_4;NormRes_5;NormRes_6;NormRes_7;0;NormRes_8;NormRes_9;NormRes_10;NormRes_11;0;NormRes_12;NormRes_13;NormRes_14;NormRes_15;NormRes_16;0;NormRes_17;NormRes_18;NormRes_19;NormRes_20;NormRes_21;0;NormRes_22;NormRes_23;NormRes_24;NormRes_25;NormRes_26];
@@ -1074,7 +1074,7 @@ fechadura=xlsclose(fechadura);
 %Def_DF_PrensCP2
 
 
-%%Graficos Isolados plot(x,y,’[colour][linestyle][marker]’, ’linewidth’, [n])
+%%Graficos Isolados plot(x,y,Â’[colour][linestyle][marker]Â’, Â’linewidthÂ’, [n])
 %https://www.rapidtables.com/web/color/RGB_Color.html dark blue = (0,0,139)./255 = [0 0 0.54]
 %https://octave.org/doc/v4.0.1/Axis-Configuration.html#XREFxlim
 %https://octave.org/doc/v4.0.1/Use-of-the-interpreter-Property.html#Use-of-the-interpreter-Property - usar codigo latex pra texto do plot
@@ -1215,7 +1215,7 @@ print(Graf_PLA_Pren,'-dpng','-color','-FHelvetica','Graf_PLA_Pren.png');
 %%plot(Def_LA_PrensCP1,Tens_LA_PrensCP1,'color',[0.7 0 0],'linewidth',2);hold on
 %%plot(Def_DF_PrensCP2(1:350),Tens_DF_PrensCP2(1:350),'color',[0 0 0.35],'linewidth',2);hold on
 %%plot(Def_DF_PrensCP2(350:end),Tens_DF_PrensCP2(350:end),'-.','color',[0 0 0.35],'linewidth',2);
-%%title('Tensão x Deformação - Engenharia','fontsize',16,'fontweight',"bold");axis([0 0.124 0 50]);
+%%title('TensÃ£o x DeformaÃ§Ã£o - Engenharia','fontsize',16,'fontweight',"bold");axis([0 0.124 0 50]);
 %%grid on; grid minor on;
 %%xlabel('\epsilon (%)','fontsize',12,'fontweight',"bold");
 %%ylabel('\sigma (MPa)','fontsize',12,'fontweight',"bold");
@@ -1252,7 +1252,7 @@ print(Graf_PLA_Pren,'-dpng','-color','-FHelvetica','Graf_PLA_Pren.png');
 %plot(Def_DF_PrensCP2(350:end),Tens_DF_PrensCP2(350:end),'-.','color',[0 0 0.35],'linewidth',2);hold on
 %plot(abx,((Et_PVDF_CP2*abx)+linear23),'--','color',[0 0 0.35],'linewidth',1.5);
 %
-%title('Tensão x Deformação - Engenharia','fontsize',16,'fontweight',"bold");axis([0 0.124 0 50]);
+%title('TensÃ£o x DeformaÃ§Ã£o - Engenharia','fontsize',16,'fontweight',"bold");axis([0 0.124 0 50]);
 %grid on; grid minor on;
 %xlabel('\epsilon (%)','fontsize',12,'fontweight',"bold");
 %ylabel('\sigma (MPa)','fontsize',12,'fontweight',"bold");
